@@ -1,0 +1,4 @@
+American English:0
+British English:1
+European English:2
+Canadian English:3
